@@ -2,13 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ac2c669b-c5d4-4dc0-81bc-086c4e0481e5" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/resources/db/migration/V12__Change_id_column_type.sql" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_h2database_h2_1_4_200.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__mysql_mysql_connector_java_5_1_47.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/community2.iml" beforeDir="false" afterPath="$PROJECT_DIR$/community2.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -258,7 +251,7 @@
       <workItem from="1588401853253" duration="1197000" />
       <workItem from="1588516910478" duration="2131000" />
       <workItem from="1588576807335" duration="14464000" />
-      <workItem from="1588649735367" duration="2242000" />
+      <workItem from="1588649735367" duration="2734000" />
     </task>
     <task id="LOCAL-00001" summary="第一季结束前">
       <created>1588577983447</created>
